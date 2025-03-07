@@ -22,5 +22,6 @@ A responsive landing page built with Next.js and Tailwind CSS.
 ### Option 1: Run Locally
 
 1. Clone the repository
-2. Install dependencies:
+2. Install dependencies: npm install --legacy-peer-deps
+3. Run the project: npm run dev or (npm run build and npm start)
 
